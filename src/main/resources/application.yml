@@ -1,0 +1,26 @@
+server:
+  port: 20000
+
+spring:
+  application:
+    name: bos
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/bos?characterEncoding=utf-8
+    username: root
+    password: root
+  jpa:
+    database: MySQL
+    show-sql: true
+    generate-ddl: true
+#    hibernate:
+#      ddl-auto: update
+
+jwt:
+  config:
+    key: HKDFEhdifeoo21874dferfasjodliwr187fd8rf74e5wfdkjhfIIGKJEF41DS2F154fg544gr86gflklotio4859ucj
+    ttl: 3600000
+
+
+
+

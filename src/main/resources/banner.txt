@@ -1,0 +1,19 @@
+
+
+BBBBBBBBBBBBBBBBB        OOOOOOOOO        SSSSSSSSSSSSSSS
+B::::::::::::::::B     OO:::::::::OO    SS:::::::::::::::S
+B::::::BBBBBB:::::B  OO:::::::::::::OO S:::::SSSSSS::::::S
+BB:::::B     B:::::BO:::::::OOO:::::::OS:::::S     SSSSSSS
+  B::::B     B:::::BO::::::O   O::::::OS:::::S
+  B::::B     B:::::BO:::::O     O:::::OS:::::S
+  B::::BBBBBB:::::B O:::::O     O:::::O S::::SSSS
+  B:::::::::::::BB  O:::::O     O:::::O  SS::::::SSSSS
+  B::::BBBBBB:::::B O:::::O     O:::::O    SSS::::::::SS
+  B::::B     B:::::BO:::::O     O:::::O       SSSSSS::::S
+  B::::B     B:::::BO:::::O     O:::::O            S:::::S
+  B::::B     B:::::BO::::::O   O::::::O            S:::::S
+BB:::::BBBBBB::::::BO:::::::OOO:::::::OSSSSSSS     S:::::S
+B:::::::::::::::::B  OO:::::::::::::OO S::::::SSSSSS:::::S
+B::::::::::::::::B     OO:::::::::OO   S:::::::::::::::SS
+BBBBBBBBBBBBBBBBB        OOOOOOOOO      SSSSSSSSSSSSSSS
+
